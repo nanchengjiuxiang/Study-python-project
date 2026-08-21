@@ -1,50 +1,50 @@
 # set是一种无序的，不可重复的，可修改的数据容器
 # 注意：{}定义的不是集合，而是空字典；由于集合是无序的因此是不支持索引访问的---->定义空集合: s = set()
-# s1 = {0,10,20,50,1,0,50,2,0}
-# print(s1)
-# print(s1)
-# print(type(s1))
-#
-# #定义空集合
-# s2 = set()
-# print(type(s2))
+s1 = {0,10,20,50,1,0,50,2,0}
+print(s1)
+print(s1)
+print(type(s1))
+
+#定义空集合
+s2 = set()
+print(type(s2))
 
 
 
 
-#--------------------------------------------------常用方法----------------------------------------------
-# s1 = {100,200,300,400,500,600,700,800,900}
-#
-# #add(item)	添加单个元素
-# s1.add(1000)
-# print(s1)
-#
-# #remove(item)	删除指定元素
-# s1.remove(200)
-# print(s1)
+# --------------------------------------------------常用方法----------------------------------------------
+s1 = {100,200,300,400,500,600,700,800,900}
 
-#pop()	随机删除并返回一个元素
-# e = s1.pop()
-# print(s1)
-# print(e)
-#
-# #clear()	清空集合所有元素
-# s1.clear()
-# print(s1)
-#
-# #并集（Union）  两个集合的所有元素，自动去重。  运算符：|  方法：union()
-# s2 = {"A","B","C","D","E","X","Y"}
-# s3 = {"C","E","Y","Z"}
-# print(s2.union(s3))
-#
-# #交集（Intersection）  两个集合共同拥有的元素。  运算符：&  方法：intersection()
-# print(s2.intersection(s3))
-#
-# # 差集（Difference）  属于 A 但不属于 B 的元素。  运算符：-  方法：difference()
-# print(s2.difference(s3))
-# print(s3.difference(s2))
-# print(s2-s3)
-# print(s3-s2)
+#add(item)	添加单个元素
+s1.add(1000)
+print(s1)
+
+#remove(item)	删除指定元素
+s1.remove(200)
+print(s1)
+
+# pop()	随机删除并返回一个元素
+e = s1.pop()
+print(s1)
+print(e)
+
+#clear()	清空集合所有元素
+s1.clear()
+print(s1)
+
+#并集（Union）  两个集合的所有元素，自动去重。  运算符：|  方法：union()
+s2 = {"A","B","C","D","E","X","Y"}
+s3 = {"C","E","Y","Z"}
+print(s2.union(s3))
+
+#交集（Intersection）  两个集合共同拥有的元素。  运算符：&  方法：intersection()
+print(s2.intersection(s3))
+
+# 差集（Difference）  属于 A 但不属于 B 的元素。  运算符：-  方法：difference()
+print(s2.difference(s3))
+print(s3.difference(s2))
+print(s2-s3)
+print(s3-s2)
 
 
 

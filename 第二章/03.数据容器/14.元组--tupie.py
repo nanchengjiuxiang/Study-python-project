@@ -1,70 +1,70 @@
-#元组是不可变序列，类似于列表，但创建后不能修改----可重复，有序，不可修改
+# 元组是不可变序列，类似于列表，但创建后不能修改----可重复，有序，不可修改
 
-# t1 = (20,22,55,56,45,55,54,85,669,55)
-# print(t1)
-# print(type(t1))   # <class 'tuple'>
-#
-# #索引访问
-# print(t1[0])
-# print(t1[5])
-# print(t1[-2])
-#
-# #切片
-# print(t1[:-5])
-# print(t1[0:5:2])
-#
-# #count() 统计元素串在元组中出现的次数
-# print(t1.count(55))
-# print(t1.count(56))
-# print(t1.count(00))
-#
-# #index() 查找元素在元组中出现的位置
-# print(t1.index(55))
-# print(t1.index(56))
+t1 = (20,22,55,56,45,55,54,85,669,55)
+print(t1)
+print(type(t1))   # <class 'tuple'>
 
-#定义空元组----注意:如果需要定义单元素元组，那单元素后面需要加上逗号，   (100,)
-# t2 = ()
-# print(t2)
-# print(type(t2))   #<class 'tuple'>
-#
-# t3 = (100)
-# print(t3)
-# print(type(t3))   # <class 'int'>
-#
-# t4 = (100,)
-# print(t4)
-# print(type(t4))   #<class 'tuple'>
+#索引访问
+print(t1[0])
+print(t1[5])
+print(t1[-2])
 
+#切片
+print(t1[:-5])
+print(t1[0:5:2])
 
+#count() 统计元素串在元组中出现的次数
+print(t1.count(55))
+print(t1.count(56))
+print(t1.count(00))
+
+#index() 查找元素在元组中出现的位置
+print(t1.index(55))
+print(t1.index(56))
+
+# 定义空元组----注意:如果需要定义单元素元组，那单元素后面需要加上逗号，   (100,)
+t2 = ()
+print(t2)
+print(type(t2))   #<class 'tuple'>
+
+t3 = (100)
+print(t3)
+print(type(t3))   # <class 'int'>
+
+t4 = (100,)
+print(t4)
+print(type(t4))   #<class 'tuple'>
 
 
-#--------------------------------------组包(packing)与解包(unpacking)--------------------------------------------------
 
+
+# --------------------------------------组包(packing)与解包(unpacking)--------------------------------------------------
+
+# 定义元组，组包
+t1 = (5,7,9,10,2,23,12)
 #定义元组，组包
-# t1 = (5,7,9,10,2,23,12)
-# #定义元组，组包
-# t2 = 5,7,9,10,2,23,12
-#
-# print(t1)
-# print(t2)
-#
-# #基础解包
-# a , b , c , d , e , f , g = t1
-# print(a , b , c , d , e , f , g )
-#
-# # (*)扩展解包--->在扩展解包时，*表示收集剩余的所有元素，允许我们处理不确定的元素（生成列表，以便可以进一步地处理）
-# h,i,*j,k = t1
-# print(h,i,j,k)
-# l,m,*n = t1
-# print(l,m,n)
+t2 = 5,7,9,10,2,23,12
+
+print(t1)
+print(t2)
+
+#基础解包
+a , b , c , d , e , f , g = t1
+print(a , b , c , d , e , f , g )
+
+# (*)扩展解包--->在扩展解包时，*表示收集剩余的所有元素，允许我们处理不确定的元素（生成列表，以便可以进一步地处理）
+h,i,*j,k = t1
+print(h,i,j,k)
+l,m,*n = t1
+print(l,m,n)
 
 
 
 # 变量值互换
-# a = 10
-# b = 20
-# a, b = b, a
-# print(a, b)
+a = 10
+b = 20
+a, b = b, a
+print(a, b)
 
 
 
