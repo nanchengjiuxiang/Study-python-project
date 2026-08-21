@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d17e0734-997d-4301-a583-44cd92b104a8" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../develop/python/python3.13.14/Lib/runpy.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第二章/03.数据容器/15.集合--set.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000152386694066" />
+      <entry key="S2" value="1.0708424527232991" />
+      <entry key="S5" value="1.5628375612704715" />
+      <entry key="S10" value="2.460537471002816" />
+      <entry key="S30" value="5.266881138751954" />
+      <entry key="S60" value="8.27720981179391" />
+      <entry key="M2" value="12.601032177498686" />
+      <entry key="M5" value="22.423302087472905" />
+      <entry key="M10" value="38.76317975141401" />
+      <entry key="M15" value="57.881651113134666" />
+      <entry key="M30" value="124.73925936568037" />
+      <entry key="H1" value="273.3223179329484" />
+      <entry key="H2" value="573.3104241598655" />
+      <entry key="H4" value="1052.1934294113257" />
+      <entry key="D1" value="2164.975399867388" />
+      <entry key="W1" value="2509.600411910002" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.3072790113734537E-159" />
+      <entry key="MS500" value="1.6721439340267366E-32" />
+      <entry key="S2" value="1.1371580167052628E-8" />
+      <entry key="S5" value="6.694866002743822E-4" />
+      <entry key="S10" value="0.02809138286498268" />
+      <entry key="S30" value="0.45787012177442704" />
+      <entry key="S60" value="1.0872845558064836" />
+      <entry key="M2" value="1.9670503862841318" />
+      <entry key="M5" value="4.353026437527176" />
+      <entry key="M10" value="6.862872222" />
+      <entry key="M15" value="8.30583805676881" />
+      <entry key="M30" value="11.654183336535406" />
+      <entry key="H1" value="19.413615575359277" />
+      <entry key="H2" value="36.8475722436305" />
+      <entry key="H4" value="67.22133815966605" />
+      <entry key="D1" value="143.12238793619167" />
+      <entry key="W1" value="167.42928625002452" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7071067811865476" />
+      <entry key="MS500" value="0.9330465364186812" />
+      <entry key="S2" value="1.0518262343228317" />
+      <entry key="S5" value="1.5501197645268072" />
+      <entry key="S10" value="2.458022679528639" />
+      <entry key="S30" value="5.6540012446298995" />
+      <entry key="S60" value="9.290393068602508" />
+      <entry key="M2" value="14.500091487443846" />
+      <entry key="M5" value="26.717901423084637" />
+      <entry key="M10" value="45.57964574816404" />
+      <entry key="M15" value="66.14765758025733" />
+      <entry key="M30" value="136.3598722288272" />
+      <entry key="H1" value="292.70303937762793" />
+      <entry key="H2" value="610.1248984900209" />
+      <entry key="H4" value="1119.3851522258474" />
+      <entry key="D1" value="2308.087811352109" />
+      <entry key="W1" value="2677.028048881629" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GzozB2bgV62WxLyKeQAULcb9xx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.04.运算符.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.if条件判断.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.match模式匹配.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.while循环.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.for循环.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.嵌套循环.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.循环案例 1 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.循环案例.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.循环案例 2 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.数据容器--list (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.数据容器--list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.字符串--str (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.字符串str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.元组--tupie.executor&quot;: &quot;Profiler&quot;,
+    &quot;Python.15.集合--set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.字典--dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.runpy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/python-project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myDebuggerBackend" value="DEBUGPY" />
+  </component>
+  <component name="RunManager" selected="Python.16.字典--dict">
+    <configuration name="13.字符串--str (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章/03.数据容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章/03.数据容器/13.字符串--str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13.字符串--str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章/03.数据容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="E:\python-project\第二章\03.数据容器\13.字符串--str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.元组--tupie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章/03.数据容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章/03.数据容器/14.元组--tupie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15.集合--set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章/03.数据容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章/03.数据容器/15.集合--set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16.字典--dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章/03.数据容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章/03.数据容器/16.字典--dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.16.字典--dict" />
+        <item itemvalue="Python.15.集合--set" />
+        <item itemvalue="Python.14.元组--tupie" />
+        <item itemvalue="Python.13.字符串--str (1)" />
+        <item itemvalue="Python.13.字符串--str" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d17e0734-997d-4301-a583-44cd92b104a8" name="更改" comment="" />
+      <created>1784984018164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784984018164</updated>
+      <workItem from="1785031825955" duration="1213000" />
+      <workItem from="1785041660759" duration="458000" />
+      <workItem from="1785051005152" duration="1629000" />
+      <workItem from="1785073201637" duration="363000" />
+      <workItem from="1785130872964" duration="1291000" />
+      <workItem from="1785132317084" duration="454000" />
+      <workItem from="1785155725064" duration="679000" />
+      <workItem from="1785203186587" duration="3778000" />
+      <workItem from="1785221540012" duration="2134000" />
+      <workItem from="1785227028580" duration="9000" />
+      <workItem from="1785227046191" duration="2090000" />
+      <workItem from="1785311540249" duration="3111000" />
+      <workItem from="1785375627070" duration="2887000" />
+      <workItem from="1785380684245" duration="618000" />
+      <workItem from="1785398554631" duration="423000" />
+      <workItem from="1785399062669" duration="2705000" />
+      <workItem from="1785462522786" duration="3626000" />
+      <workItem from="1785483805278" duration="2702000" />
+      <workItem from="1785486571724" duration="312000" />
+      <workItem from="1785547174910" duration="3495000" />
+      <workItem from="1785565836529" duration="5328000" />
+      <workItem from="1785572034716" duration="351000" />
+      <workItem from="1786585501137" duration="2561000" />
+      <workItem from="1786673711203" duration="2119000" />
+      <workItem from="1786675943717" duration="212000" />
+      <workItem from="1786756125787" duration="3870000" />
+      <workItem from="1786843380758" duration="294000" />
+      <workItem from="1786864427742" duration="4053000" />
+      <workItem from="1786930063158" duration="1134000" />
+      <workItem from="1786949758939" duration="450000" />
+      <workItem from="1786951132295" duration="2181000" />
+      <workItem from="1786955230281" duration="596000" />
+      <workItem from="1787020101561" duration="2830000" />
+      <workItem from="1787022984459" duration="160000" />
+      <workItem from="1787035996728" duration="3387000" />
+      <workItem from="1787212151891" duration="53000" />
+      <workItem from="1787276341879" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_project$07_while.coverage" NAME="07.while循环 覆盖结果" MODIFIED="1785401781459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$13___str__1_.coverage" NAME="13.字符串--str (1) 覆盖结果" MODIFIED="1786757006612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$15___set.coverage" NAME="15.集合--set 覆盖结果" MODIFIED="1787036006448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$runpy.coverage" NAME="runpy 覆盖结果" MODIFIED="1785221627060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../develop/python/python3.13.14/Lib" />
+    <SUITE FILE_PATH="coverage/python_project$12___list__1_.coverage" NAME="12.数据容器--list (1) 覆盖结果" MODIFIED="1786586257937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$08_for.coverage" NAME="08.for循环 覆盖结果" MODIFIED="1785401784862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$06_match.coverage" NAME="06.match模式匹配 覆盖结果" MODIFIED="1785228507442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$16___dict.coverage" NAME="16.字典--dict 覆盖结果" MODIFIED="1787276459268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$13_str.coverage" NAME="13.字符串str 覆盖结果" MODIFIED="1786675382639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$11__2_.coverage" NAME="11.循环案例 2  覆盖结果" MODIFIED="1785548168263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$04_.coverage" NAME="04.运算符 覆盖结果" MODIFIED="1785131807785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$10__1_.coverage" NAME="10.循环案例 1  覆盖结果" MODIFIED="1785484742185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$12___list.coverage" NAME="12.数据容器--list 覆盖结果" MODIFIED="1785565860080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$10_.coverage" NAME="10.循环案例 1  覆盖结果" MODIFIED="1785465790224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$05_if.coverage" NAME="05.if条件判断 覆盖结果" MODIFIED="1785222341387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+    <SUITE FILE_PATH="coverage/python_project$14___tupie.coverage" NAME="14.元组--tupie 覆盖结果" MODIFIED="1786930879079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$09_.coverage" NAME="09.嵌套循环 覆盖结果" MODIFIED="1785465019421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
+  </component>
+</project>
