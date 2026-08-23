@@ -88,6 +88,7 @@
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
@@ -98,46 +99,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.04.运算符.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.if条件判断.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.match模式匹配.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.while循环.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.for循环.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.嵌套循环.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.循环案例 1 .executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.循环案例.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.循环案例 2 .executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.数据容器--list (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.数据容器--list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.字符串--str (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.字符串str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.元组--tupie.executor&quot;: &quot;Profiler&quot;,
-    &quot;Python.15.集合--set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.字典--dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.runpy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/python-project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.04.运算符.executor": "Run",
+    "Python.05.if条件判断.executor": "Run",
+    "Python.06.match模式匹配.executor": "Run",
+    "Python.07.while循环.executor": "Run",
+    "Python.08.for循环.executor": "Run",
+    "Python.09.嵌套循环.executor": "Run",
+    "Python.10.循环案例 1 .executor": "Run",
+    "Python.10.循环案例.executor": "Run",
+    "Python.11.循环案例 2 .executor": "Run",
+    "Python.12.数据容器--list (1).executor": "Run",
+    "Python.12.数据容器--list.executor": "Run",
+    "Python.13.字符串--str (1).executor": "Run",
+    "Python.13.字符串str.executor": "Run",
+    "Python.14.元组--tupie.executor": "Profiler",
+    "Python.15.集合--set.executor": "Run",
+    "Python.16.字典--dict.executor": "Run",
+    "Python.runpy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "E:/python-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.python.lsp.core.PyTypeEngineConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings sdk-home="$PROJECT_DIR$/.venv/Scripts/python.exe">
@@ -340,6 +341,7 @@
       <workItem from="1787278520605" duration="853000" />
       <workItem from="1787279458097" duration="171000" />
       <workItem from="1787279640828" duration="15000" />
+      <workItem from="1787447987312" duration="4122000" />
     </task>
     <servers />
   </component>
@@ -365,7 +367,7 @@
     <SUITE FILE_PATH="coverage/python_project$12___list__1_.coverage" NAME="12.数据容器--list (1) 覆盖结果" MODIFIED="1786586257937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
     <SUITE FILE_PATH="coverage/python_project$08_for.coverage" NAME="08.for循环 覆盖结果" MODIFIED="1785401784862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
     <SUITE FILE_PATH="coverage/python_project$06_match.coverage" NAME="06.match模式匹配 覆盖结果" MODIFIED="1785228507442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
-    <SUITE FILE_PATH="coverage/python_project$16___dict.coverage" NAME="16.字典--dict 覆盖结果" MODIFIED="1787279623299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
+    <SUITE FILE_PATH="coverage/python_project$16___dict.coverage" NAME="16.字典--dict 覆盖结果" MODIFIED="1787451954123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
     <SUITE FILE_PATH="coverage/python_project$13_str.coverage" NAME="13.字符串str 覆盖结果" MODIFIED="1786675382639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章/03.数据容器" />
     <SUITE FILE_PATH="coverage/python_project$11__2_.coverage" NAME="11.循环案例 2  覆盖结果" MODIFIED="1785548168263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
     <SUITE FILE_PATH="coverage/python_project$04_.coverage" NAME="04.运算符 覆盖结果" MODIFIED="1785131807785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
