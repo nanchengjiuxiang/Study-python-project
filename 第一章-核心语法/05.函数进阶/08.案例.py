@@ -5,7 +5,7 @@
     2. 积分抵扣需要商品总金额满5000才可以使用,100积分抵扣1元(且抵扣金额不能超过商品总价,积分只能整百抵扣)
 """
 
-def cala_order_cost(*args, coupon=0.0, score=0.0, express=0.0):
+def cala_order_cost(*args: tuple[str, float, float], coupon=0.0, score=0.0, express=0.0):
     """
     用于根据传入的一批商品信息(商品名、价格、数量)、优惠(优惠券、积分抵扣)、运费信息计算订单的总金额
     :param args: 商品信息(商品名、价格、数量)
@@ -33,5 +33,5 @@ def cala_order_cost(*args, coupon=0.0, score=0.0, express=0.0):
     return total_prise
 
 # 调用函数
-cost = cala_order_cost(("鼠标", 188, 2), ("键盘", 388, 1), ("手机", 4999, 1), coupon=500, score=9000, express=19.9)
+cost = cala_order_cost(("鼠标", 188.8, 2), ("键盘", 388, 1), ("手机", 4999, 1), coupon=500, score=9000, express=19.9)
 print(f"商品价格为 {cost}")
