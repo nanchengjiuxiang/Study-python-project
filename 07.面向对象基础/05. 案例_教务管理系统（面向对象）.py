@@ -119,21 +119,25 @@ class EduManagement:
             print(mune)
 
             choice = int(input("输入要执行的操作（1 - 6）:"))
-            match choice:
-                case 1:
-                    self.add_student()
-                case 2:
-                    self.update_student()
-                case 3:
-                    self.delete_student()
-                case 4:
-                    self.show_student()
-                case 5:
-                    self.show_all_student()
-                case 6:
-                    break
-                case _:
-                    print("无效操作")
+
+            try:
+                match choice:
+                    case 1:
+                        self.add_student()
+                    case 2:
+                        self.update_student()
+                    case 3:
+                        self.delete_student()
+                    case 4:
+                        self.show_student()
+                    case 5:
+                        self.show_all_student()
+                    case 6:
+                        break
+                    case _:
+                        print("无效操作")
+            except Exception as e:
+                print("程序出错了，错误信息：", e)
 # 菜单
 mune = """
 ##########教务管理系统##########
